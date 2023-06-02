@@ -1,0 +1,9 @@
+name: DSCore
+version: '${version}'
+main: fr.hunh0w.dscore.DSCore
+api-version: 1.19
+authors: [ Hunh0w ]
+depend:
+  - LuckPerms
+commands:
+  dstest: {}
